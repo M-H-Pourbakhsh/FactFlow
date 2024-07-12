@@ -1,13 +1,13 @@
 
 const MainHeader = ({onInputClick, showForm}) => {
   return (
-    <header className="header">
+      <header className="header">
           <div className="logo">
             <img
-              src="logo.png"
-              height="68"
-              width="68"
-              alt="Today I Learned Logo"
+              src="logo.svg"
+              height="98"
+              width="98"
+              alt="FactFlow Logo"
             />
             <h1>FactFlow</h1>
           </div>
