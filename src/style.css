@@ -262,7 +262,7 @@ ul {
   }
 }
 
-@media (min-width: 576px) {
+@media (min-width: 680px) {
   .header {
     flex-direction: row;
     align-items: center;
