@@ -1,7 +1,7 @@
 const Loader = () => {
   return (
     <div className="spinner">
-      <img src="../../Spinner.svg" />
+      <img src={`${import.meta.env.BASE_URL}spinner.png`} alt="Loading..." />
     </div>
   )
 }
